@@ -8,7 +8,6 @@ Download LLM model file & save in project folder.
 
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
-
 Data folder Contain local knowledge for QA in pdf format
 
 Run ingest.py to vectorsize the text and store in faiss DB
